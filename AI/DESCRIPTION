@@ -1,2 +1,8 @@
 AI
 
+EnemyLocomotionManager
+  -Handles the speed and animation of the AI's avatar.
+  
+EnemyManager
+  -Handles the AI's behavior, detection, save file information, attacking.
+  -Communicates with EnemyLocomotionManager were to move.
