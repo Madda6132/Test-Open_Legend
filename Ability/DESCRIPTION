@@ -1,1 +1,13 @@
+Ability
 
+AbilityScriptObject
+  -Framework of an ability
+  -Uses building blocks for exampel, the abilitys effects, filter, and how it find targets
+  
+AfflictionAbility
+  -Framework of an affliction (Buff/Debuff)
+  -Uses building blocks for exampel, modify stats, deal damage, and gain health
+  -Affliction can call building blocks in different events such as, there is a duplicate affliction, affliction ends.
+
+AfflictionHandler
+  -
