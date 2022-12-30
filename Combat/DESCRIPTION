@@ -1,2 +1,14 @@
 Combat
 
+Encounter
+  -Contains the Creatures that will join the turn based combat.
+  -Split damage taken in the open world between all the creatures in this encounter.
+
+EncounterManager
+  -Static script.
+  -Keeps track of the creatures that are joining battle and the instigator aswell as the ability that started the combat.
+  -Communicates with BattleManager.
+
+BattleManager
+  -Keeps track of whose turn it is.
+  -Win and lose condition.
