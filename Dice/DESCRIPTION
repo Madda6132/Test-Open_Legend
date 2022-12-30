@@ -1,0 +1,6 @@
+Dice
+
+DiceTray
+  -Handles dice rolling.
+  -Handles game rules applyed to the roll depending on such as, the dice, what ability it is and what type of action it is.
+  -Display the dice in a pop up UI.
