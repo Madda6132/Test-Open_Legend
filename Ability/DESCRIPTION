@@ -10,4 +10,5 @@ AfflictionAbility
   -Affliction can call building blocks in different events such as, there is a duplicate affliction, affliction ends.
 
 AfflictionHandler
-  -
+  -Handles affliction such as when adding, removing, updating affliction.
+  -Contain the Open Legend action to resist afflictions.
